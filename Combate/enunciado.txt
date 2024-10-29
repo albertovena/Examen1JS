@@ -1,0 +1,4 @@
+Combate tiene 2 personajes - humano y orco
+Ambos tendran nombre, vida(100-130) y el daño (30-20)
+que produciran si luchan de la misma clase, modificar el nombre para diferenciar cual es cualpegaran aleatoriamente
+el juego finaliza cuando la vida de alguno llegue a 0
